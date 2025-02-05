@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # File Management in C
 
 This is a simple file management implemented in C that allows users to create, read, write, rename, and delete files.
@@ -40,4 +39,3 @@ This is a simple file management implemented in C that allows users to create, r
 3. **Write to File**: The user appends content to an existing file.
 4. **Rename File**: The user specifies the current filename and the new filename to rename the file.
 5. **Delete File**: The user specifies a filename to delete the file from the system.
->>>>>>> a274e48c0e2a61ca187e4ef623f86b5519d3e6f3
