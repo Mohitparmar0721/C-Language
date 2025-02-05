@@ -1,2 +1,8 @@
 # C-Language
- Welcome to my C programming repository! Here, I explore and implement various projects to enhance my knowledge and problem-solving skills in C. This repository contains a collection of structured, well-documented, and optimized C projects ranging from basic to advanced levels.
+C Programming – Mohit Parmar
+This repository is a collection of my C programming projects. I am using these projects to enhance my skills, improve problem-solving abilities, and deepen my understanding of C concepts.
+
+🔹 Focus : Loops, Functions, Pointers, File Handling, Structure.
+🔹 Purpose: Strengthening my coding skills through hands-on practice.
+
+Continuously learning and improving!
